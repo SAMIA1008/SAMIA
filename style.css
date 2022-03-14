@@ -167,7 +167,7 @@ section .title::after{
     display: flex;
     background: url("banner.png");
     height: 100vh;
-    color: #febecc;
+    color: #111;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -210,7 +210,7 @@ section .title::after{
 }
 .home .home-content a:hover{
     color: crimson;
-    background: none;
+    background: #febeec;
 }
 
 /* about section styling */
