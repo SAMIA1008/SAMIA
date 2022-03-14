@@ -255,7 +255,7 @@ section .title::after{
 }
 .about .about-content .right a:hover{
     color: crimson;
-    background: #febecc;
+    background: #111;
 }
 
 /* services section styling */
