@@ -214,7 +214,7 @@ section .title::after{
 }
 
 /* about section styling */
-     background: #febecc;
+     
 .about .title::after{
     content: "who i am";
 }
@@ -255,7 +255,7 @@ section .title::after{
 }
 .about .about-content .right a:hover{
     color: crimson;
-    background: #111;
+    background: #febecc;
 }
 
 /* services section styling */
