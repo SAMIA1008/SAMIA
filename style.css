@@ -42,6 +42,7 @@ section{
 .services .serv-content,
 .skills .skills-content,
 .contact .contact-content{
+    background-color: #050505;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -215,7 +216,9 @@ section .title::after{
 
 /* about section styling */
      
-.about .title::after{
+.about .title:
+     background-color: #050505;
+after{
     content: "who i am";
 }
 .about .about-content .left{
