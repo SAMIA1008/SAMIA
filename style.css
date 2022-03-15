@@ -216,8 +216,11 @@ section .title::after{
 
 /* about section styling */
      
-.about .title:
-     background-color: #feb1b7 ;
+.about {
+    background-color: #febecc ;
+    
+ .about .title:
+     
 after{
     content: "who i am";
 }
